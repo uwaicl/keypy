@@ -36,24 +36,33 @@ If you use this package, please cite:
 Development
 -----------
 
-This repository is no longer maintained. Should you or your institute be interested in taking over the project, please contact the institute coordinator of the KEY Institute for Brain-Mind Research at pfaber@key.uzh.ch.
+This repository is no longer maintained by the Key Institute. 
+For information contact institute coordinator of the KEY Institute for Brain-Mind Research at pfaber@key.uzh.ch.
 
-If you want to contribute to the source code, you find the repository on GitHub:
+KeyPy has been ported from Python 2.7 to Python 3.7 by University of Waterloo Algebraic Intelligence and Computation Laboratory in 2021. 
+Contact Prof. C. L. Nehaniv (cnehaniv@uwaterloo.ca). 
 
-https://github.com/keyinst/keypy
+If you want to contribute to the source code, you can find the new KeyPy repository on GitHub:
+
+https://github.com/uwaicl/kepy
 	
 
 Developer
 ---------
 * Patricia Milz
 
-Contributers
+Contributors
 ---------------
 * Christian Oberholzer
 * Stephan Gerhard
 * Pascal L Faber
 * Thomas Koenig
 * Dietrich Lehmann
+
+* Thomas George 
+* Reinoud Maex  
+* David Haydock 
+* Chrystopher Nehaniv 
 
 
 I am most thankful to all contributers!

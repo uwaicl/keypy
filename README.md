@@ -65,4 +65,4 @@ Contributors
 * Chrystopher Nehaniv 
 
 
-I am most thankful to all contributers!
+We are most thankful to all contributors!

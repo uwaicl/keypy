@@ -44,7 +44,7 @@ Contact Prof. C. L. Nehaniv (cnehaniv@uwaterloo.ca).
 
 If you want to contribute to the source code, you can find the new KeyPy repository on GitHub:
 
-https://github.com/uwaicl/kepy
+https://github.com/uwaicl/keypy
 	
 
 Developer
